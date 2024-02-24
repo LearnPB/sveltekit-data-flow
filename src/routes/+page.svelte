@@ -1,11 +1,11 @@
 <script lang="ts">
-	import { page } from '$app/stores'
-	import Pre from '$lib/pre.svelte'
-	import log from '$lib/utils/log'
+	import { page } from "$app/stores";
+	import Pre from "$lib/pre.svelte";
+	import log from "$lib/utils/log";
 
-	export let data
+	export let data;
 
-	log.page('+page.svelte')
+	log.page("+page.svelte");
 </script>
 
 <h1>Home</h1>

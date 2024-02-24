@@ -12,9 +12,12 @@
 	<a href="/error">Errors</a>
 	<a href="/stores">Stores</a>
 	<a href="/locals">Locals</a>
+	
 </nav>
 
 <slot />
+
+
 
 <style>
 	nav {

@@ -4,6 +4,6 @@ export async function load() {
 	log.layout('+layout.server.ts (load)')
 
 	return {
-		a: 1,
+		a: 15,
 	}
 }

@@ -5,6 +5,6 @@ export async function load({ data }) {
 
 	return {
 		...data,
-		b: 2,
+		b: 255,
 	}
 }
